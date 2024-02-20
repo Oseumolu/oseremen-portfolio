@@ -2,55 +2,102 @@
 
 # Data Analysis
 
-#### Technical Skills: Python, SQL, Tableau, Power Bi, Excel
+#### Technical Skills: Python, SQL, Tableau, Power Bi, Excel, Data Entry, Database Management Systems
+
+### Soft skills: Communication Skills, Time Management, Adaptability, Critical Thinking, Problem Solving
+
+### Links: https://www.linkedin.com/in/oseremenumolu-a6153899, https://github.com/Oseumolu/
 
 ## Education     
 - M.S., Real Estate and Valuation | Abubakar Tafawa Balewa University, Bauchi (_ In progress_)        
 - B.Tech., Real Estate and Valuation | Abubakar Tafawa Balewa University, Bauchi (_February 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Team Supervisor And Data Analyst (_03-2022 - 05-2023_)**
+Golden Sand Mining Company
+- Managed data collection and analysis efforts, ensuring accurate and timely data
+reporting for decision-making purposes.
+- Conducted regular team meetings to discuss project objectives, safety
+protocols, and performance goals, ensuring all team members were aligned and
+informed.
+- Prepared comprehensive reports and presentations based on data analysis
+findings, facilitating informed decision-making for management.
+- Ensured compliance with safety regulations and company policies, promoting a
+safe working environment for all team members.
+- Managed project timelines and deadlines, coordinating activities to ensure
+projects were completed on schedule.
+- Oversaw the training and development of team members, providing guidance
+and support to enhance their skills and productivity.
+- Collaborated with the management team to develop and implement operational
+- strategies that improved workflow processes and reduced operational costs.
+- Maintained inventory control and procurement processes, optimizing the
+- availability of necessary supplies and equipment for the team
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Head Of Operations And Data Analyst (_02-2019 - 05-2021_)**
+Jabico Farm
+- Analyzed operational data and performance metrics to identify areas for
+improvement and implemented corrective actions accordingly.
+- Led and supervised daily operations within the workplace, ensuring the smooth
+execution of tasks and projects.
+- Collaborated with the data analysis team to extract valuable insights from
+operational data, contributing to data-driven decision-making.
+- Fostered a culture of teamwork, accountability, and continuous improvement
+among the operations team.
+- Collaborated with department heads and team leaders to develop operational
+strategies and plans that aligned with the organization's goals.
+- Implemented process improvements to enhance workflow and productivity,
+reducing operational costs and increasing output.
+- Oversaw the allocation of resources, including manpower, equipment, and
+materials, to optimize operational efficiency.
+- Resolved operational challenges and issues promptly, utilizing problem-solving
+skills and collaboration with cross-functional teams.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Customer Segmentation Analysis
+- This project involves a thorough examination of customer data to uncover
+meaningful segments within the customer base.
+- The goal is to identify distinct groups of customers with similar characteristics
+or behaviors, enabling the company to tailor marketing strategies and messages
+to each segment.
+- The outcome of this analysis is likely to include insights into customer
+preferences, purchase patterns, and demographics, which can be leveraged for
+targeted marketing campaigns.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Sales Performance Forecasting
+- In this project, a predictive model is developed to forecast sales performance.
+- The model utilizes historical sales data and potentially other relevant factors to
+provide forecasts that guide inventory management decisions.
+- Accurate sales forecasts are crucial for ensuring that inventory levels are
+optimized, reducing overstocking or stockouts, and improving overall business
+efficiency.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## Website User Behavior Analysis
+- This initiative revolves around the analysis of user behavior on a company's
+website.
+- The objective is to gain insights into how visitors interact with the website,
+which pages they visit most, and where they drop off in the conversion process.
+- By understanding user behavior, the company can make informed changes to
+the website's design and content to enhance the user experience and increase
+the likelihood of conversions (e.g., making a purchase, filling out a contact
+form).
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Market Analysis for Residential Property Development
+- This project focuses on conducting a comprehensive market analysis to
+evaluate the feasibility of a residential property development project.
+- It likely involves studying factors such as local real estate trends, demand for
+housing, competition, regulatory considerations, and potential risks.
+- The outcome of this analysis will inform the company's decision regarding
+whether to proceed with the development project and how to position it
+effectively in the market.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Commercial Property Lease Optimization:
+- In this project, lease agreements and occupancy data for a portfolio of
+commercial properties are analyzed.
+- The goal is to optimize the utilization of available space within the properties.
+- This could involve identifying underutilized areas, renegotiating leases, or
+making recommendations to maximize revenue and efficiency in the
+commercial property portfolio.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
