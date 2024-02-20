@@ -2,7 +2,7 @@
 
 # Data Analysis
 
-#### Technical Skills: Python, SQL, Tableau, Power Bi, Excel, Data Entry, Database Management Systems
+### Technical Skills: Python, SQL, Tableau, Power Bi, Excel, Data Entry, Database Management Systems
 
 ### Soft skills: Communication Skills, Time Management, Adaptability, Critical Thinking, Problem Solving
 
