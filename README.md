@@ -2,12 +2,11 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, Power Bi, Excel
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)      
-- M.S., Physics | The University of Texas at Dallas (_December 2019_)        
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education     
+- M.S., Real Estate and Valuation | Abubakar Tafawa Balewa University, Bauchi (_ In progress_)        
+- B.Tech., Real Estate and Valuation | Abubakar Tafawa Balewa University, Bauchi (_February 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
