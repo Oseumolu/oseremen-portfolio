@@ -1,6 +1,6 @@
 # oseremen-portfolio
 
-# Data Scientist
+# Data Analysis
 
 #### Technical Skills: Python, SQL, Tableau, Power Bi, Excel
 
