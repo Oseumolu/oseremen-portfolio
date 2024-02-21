@@ -7,7 +7,7 @@
 ### Soft Skills: Communication Skills, Time Management, Adaptability, Critical Thinking, Problem Solving
 
 ### Links:
-https://www.linkedin.com/in/oseremenumolu-a6153899
+linkedin.com/in/oseremen-umolu-a6153899/
 
 https://github.com/Oseumolu/
 
