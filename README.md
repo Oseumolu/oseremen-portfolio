@@ -6,7 +6,9 @@
 
 ### Soft Skills: Communication Skills, Time Management, Adaptability, Critical Thinking, Problem Solving
 
-### Links: https://www.linkedin.com/in/oseremenumolu-a6153899, https://github.com/Oseumolu/
+### Links:
+https://www.linkedin.com/in/oseremenumolu-a6153899
+https://github.com/Oseumolu/
 
 ## Education     
 - M.S., Real Estate and Valuation | Abubakar Tafawa Balewa University, Bauchi (_ In progress_)        
