@@ -65,7 +65,7 @@ to each segment.
 - The outcome of this analysis is likely to include insights into customer
 preferences, purchase patterns, and demographics, which can be leveraged for
 targeted marketing campaigns.
-
+![image](/assets/img/image1.jpeg)
 
 ### Sales Performance Forecasting
 - In this project, a predictive model is developed to forecast sales performance.
