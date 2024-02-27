@@ -110,4 +110,4 @@ This EDA provides valuable insights into the distribution and characteristics of
 This list comprises the world's largest companies by consolidated revenue, according to the Fortune Global 500 2023 rankings and other sources. American retail corporation Walmart has been the world's largest company by revenue since 2014.
 The list is limited to the top 50 companies, all of which have annual revenues exceeding US$130 billion. This list is incomplete, as not all companies disclose their information to the media and/or general public.
 Out of 50 largest companies 20 are American, 19 Asian and 11 European.
-![Companies revenue](/assets/img/Screenshot(20).png)
+![Companies revenue](/assets/img/Screenshot(28).png)
