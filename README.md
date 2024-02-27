@@ -65,7 +65,7 @@ to each segment.
 - The outcome of this analysis is likely to include insights into customer
 preferences, purchase patterns, and demographics, which can be leveraged for
 targeted marketing campaigns.
-![image](/assets/img/image1.jpeg)
+
 
 ### Sales Performance Forecasting
 - In this project, a predictive model is developed to forecast sales performance.
@@ -102,5 +102,6 @@ commercial properties are analyzed.
 making recommendations to maximize revenue and efficiency in the
 commercial property portfolio.
 
-
-
+## Jobs in Data Analysis:
+This EDA provides valuable insights into the distribution and characteristics of data-related job positions across different countries, job categories, experience levels, and company sizes. Further analysis could involve examining the relationship between variables such as salary and job category, or exploring trends over time. Overall, this dataset offers valuable information for understanding the landscape of data-related roles in the global job market.
+![image](/assets/img/Jobsindata.png)
