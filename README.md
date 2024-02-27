@@ -104,4 +104,4 @@ commercial property portfolio.
 
 ## Jobs in Data Analysis:
 This EDA provides valuable insights into the distribution and characteristics of data-related job positions across different countries, job categories, experience levels, and company sizes. Further analysis could involve examining the relationship between variables such as salary and job category, or exploring trends over time. Overall, this dataset offers valuable information for understanding the landscape of data-related roles in the global job market.
-![Jobs_in_data](/assets/img/Jobs_in_data.png)
+![Jobs in data](/assets/img/Jobs_in_data.jpeg)
