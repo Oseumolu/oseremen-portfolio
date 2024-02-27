@@ -105,3 +105,9 @@ commercial property portfolio.
 ## Jobs in Data Analysis:
 This EDA provides valuable insights into the distribution and characteristics of data-related job positions across different countries, job categories, experience levels, and company sizes. Further analysis could involve examining the relationship between variables such as salary and job category, or exploring trends over time. Overall, this dataset offers valuable information for understanding the landscape of data-related roles in the global job market.
 ![Jobs in data](/assets/img/Jobs_in_data.png)
+
+## largest companies by revenue
+This list comprises the world's largest companies by consolidated revenue, according to the Fortune Global 500 2023 rankings and other sources. American retail corporation Walmart has been the world's largest company by revenue since 2014.
+The list is limited to the top 50 companies, all of which have annual revenues exceeding US$130 billion. This list is incomplete, as not all companies disclose their information to the media and/or general public.
+Out of 50 largest companies 20 are American, 19 Asian and 11 European.
+![Companies revenue](/assets/img/Screenshot(20).png)
