@@ -112,15 +112,13 @@ The list is limited to the top 50 companies, all of which have annual revenues e
 Out of 50 largest companies 20 are American, 19 Asian and 11 European.
 ![Companies revenue](/assets/img/Screenshot(28).png)
 
-##Stock Price Prediction App Report
+### Stock Price Prediction App Report
 
-Purpose: 
-
+##Purpose: 
 The Stock Price Prediction App is designed to forecast the closing prices of Microsoft Corporation (MSFT) stock using historical price data. It utilizes a linear regression model, a common statistical method for predicting continuous outcomes.
 Data: The app loads historical stock price data from a CSV file named ‘MSFT.csv’, which includes daily opening, high, low, and closing prices, along with the trading volume.
-Functionality:
+##Functionality:
 Data Visualization: The app displays the stock price data and provides a scatter plot visualization comparing actual vs. predicted closing prices using Plotly.
-
-Model Training: 
+##Model Training: 
 It splits the data into training and testing sets, with 80% used for training the linear regression model.
 
